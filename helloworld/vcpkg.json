@@ -1,0 +1,8 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "dependencies": [
+    "opencv"
+  ],
+  "builtin-baseline": "4580816534ed8fd9634ac83d46471440edd82dfe"
+}
